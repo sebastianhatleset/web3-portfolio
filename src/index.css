@@ -75,12 +75,14 @@ code {
 }
 
 .header__content p {
-  font-size: 32px;
+  font-size: 29px;
+  margin: 25px;
 }
 
 .header__content button {
   margin: 25px auto 0;
 }
+
 
 /* ------------------------------------------------------ */
 /* -- About -- */
